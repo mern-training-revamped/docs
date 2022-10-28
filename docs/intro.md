@@ -15,6 +15,7 @@ sidebar_position: 1
 - [AWS Account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) Optional
 - [VSCode](https://code.visualstudio.com/)
+- [Postman](https://www.postman.com/downloads/)
 
 ## Setup Repositories
 

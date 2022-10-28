@@ -10,7 +10,7 @@ const config = {
   tagline: "React , DynamoDb, NodeJS, Lambdas",
   url: "https://github.com",
   baseUrl: "/documentation/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
@@ -117,6 +117,10 @@ const config = {
               {
                 label: "Terraform",
                 href: "https://www.terraform.io/",
+              },
+              {
+                label: "Postman",
+                href: "https://www.postman.com/downloads/",
               },
             ],
           },
