@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Documentation for MERN training",
-  tagline: "Dinosaurs are cool",
+  title: "React & Serverless",
+  tagline: "React , DynamoDb, NodeJS, Lambdas",
   url: "https://github.com",
   baseUrl: "/documentation/",
   onBrokenLinks: "throw",
@@ -35,10 +35,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -58,9 +54,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Home",
         logo: {
-          alt: "My Site Logo",
+          alt: "Home Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -68,11 +64,12 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "Intro",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/api", label: "API", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/mern-training-revamped/documentation",
             label: "GitHub",
             position: "right",
           },
@@ -85,25 +82,41 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Serverless",
+                href: "https://www.serverless.com/framework/docs/getting-started",
+              },
+              {
+                label: "AWS Lambda",
+                href: "https://aws.amazon.com/lambda/",
+              },
+              {
+                label: "AWS Lambda",
+                href: "https://aws.amazon.com/dynamodb/",
+              },
+              {
+                label: "NodeJS",
+                href: "https://nodejs.org/en/",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Additional Resources",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Learn NodeJS",
+                href: "https://www.codecademy.com/learn/learn-node-js",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Cloudfront",
+                href: "https://www.amazonaws.cn/en/cloudfront/",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "API Gateway",
+                href: "https://www.amazonaws.cn/en/api-gateway/",
+              },
+              {
+                label: "Terraform",
+                href: "https://www.terraform.io/",
               },
             ],
           },
@@ -116,7 +129,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/mern-training-revamped/documentation",
               },
             ],
           },

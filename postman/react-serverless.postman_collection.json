@@ -1,0 +1,125 @@
+{
+	"info": {
+		"_postman_id": "4cdfe888-9d80-42d0-a4da-2db61dc5c136",
+		"name": "react-serverless",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "2492154"
+	},
+	"item": [
+		{
+			"name": "localhost",
+			"item": [
+				{
+					"name": "validation-api",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"employeeId\": \"123\",\r\n    \"country\": \"US\",\r\n    \"doj\": \"12-12-2022\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:4000/dev",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"dev"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "localization-api",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4000/dev/6622dd62-69b6-4384-84bb-d71bf04ce22c/1.0/en",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"dev",
+								"6622dd62-69b6-4384-84bb-d71bf04ce22c",
+								"1.0",
+								"en"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "eligibility-api",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"firstName\": \"Pratik\",\r\n    \"lastName\": \"Prasad\",\r\n    \"email\": \"pratik.prasad@acc.com\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:4000/dev/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"dev",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "profile-api",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"employeeId\": \"some-id\",\r\n    \"userId\": \"some-userId\",\r\n    \"password\": \"some-pass\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:4000/dev",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"dev"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
