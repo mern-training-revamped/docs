@@ -12,4 +12,4 @@ You have just learned the following
 
 ## What's next?
 
-- Read more on [APi Gateway](https://docs.aws.amazon.com/apigateway/?icmpid=docs_homepage_serverless)
+- Read more on [API Gateway](https://docs.aws.amazon.com/apigateway/?icmpid=docs_homepage_serverless)
