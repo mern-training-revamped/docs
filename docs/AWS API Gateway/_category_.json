@@ -1,0 +1,8 @@
+{
+  "label": "AWS API Gateway",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Create API Gateway"
+  }
+}
