@@ -7,7 +7,6 @@ sidebar_position: 3
 You have just learned the following
 
 - Setting up API Gateway to host rest endpoints to our lambdas
-- How to setup Rate limiting in API Gateway
 - Attach lambdas to API Gateway endpoints
 
 ## What's next?
