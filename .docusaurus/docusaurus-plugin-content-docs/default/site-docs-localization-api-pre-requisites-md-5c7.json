@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Localization API/pre-requisites",
+  "id": "Localization API/pre-requisites",
+  "title": "Prerequisites",
+  "description": "- Complete the Intro to lambda section",
+  "source": "@site/docs/Localization API/pre-requisites.md",
+  "sourceDirName": "Localization API",
+  "slug": "/Localization API/pre-requisites",
+  "permalink": "/documentation/docs/Localization API/pre-requisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lambda - Localization API",
+    "permalink": "/documentation/docs/category/lambda---localization-api"
+  },
+  "next": {
+    "title": "Create Localization API",
+    "permalink": "/documentation/docs/Localization API/create-localization-api"
+  }
+}

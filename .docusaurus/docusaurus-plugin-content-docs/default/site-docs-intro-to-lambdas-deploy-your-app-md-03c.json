@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Intro to Lambdas/deploy-your-app",
+  "id": "Intro to Lambdas/deploy-your-app",
+  "title": "Deploy your app locally",
+  "description": "Deploy your app",
+  "source": "@site/docs/Intro to Lambdas/deploy-your-app.md",
+  "sourceDirName": "Intro to Lambdas",
+  "slug": "/Intro to Lambdas/deploy-your-app",
+  "permalink": "/documentation/docs/Intro to Lambdas/deploy-your-app",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Handler",
+    "permalink": "/documentation/docs/Intro to Lambdas/setup-handler"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/documentation/docs/Intro to Lambdas/congratulations"
+  }
+}

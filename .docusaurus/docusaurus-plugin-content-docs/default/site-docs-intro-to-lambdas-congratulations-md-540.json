@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Intro to Lambdas/congratulations",
+  "id": "Intro to Lambdas/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of lambda and made some progress in writing specific APIs.",
+  "source": "@site/docs/Intro to Lambdas/congratulations.md",
+  "sourceDirName": "Intro to Lambdas",
+  "slug": "/Intro to Lambdas/congratulations",
+  "permalink": "/documentation/docs/Intro to Lambdas/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your app locally",
+    "permalink": "/documentation/docs/Intro to Lambdas/deploy-your-app"
+  },
+  "next": {
+    "title": "Lambda - Eligibility API",
+    "permalink": "/documentation/docs/category/lambda---eligibility-api"
+  }
+}

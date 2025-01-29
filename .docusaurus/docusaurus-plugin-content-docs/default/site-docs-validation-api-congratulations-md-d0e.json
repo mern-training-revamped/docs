@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Validation API/congratulations",
+  "id": "Validation API/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the following",
+  "source": "@site/docs/Validation API/congratulations.md",
+  "sourceDirName": "Validation API",
+  "slug": "/Validation API/congratulations",
+  "permalink": "/documentation/docs/Validation API/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Validation API",
+    "permalink": "/documentation/docs/Validation API/create-validation-api"
+  },
+  "next": {
+    "title": "Lambda - Profile API",
+    "permalink": "/documentation/docs/category/lambda---profile-api"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Profile API/congratulations",
+  "id": "Profile API/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the following",
+  "source": "@site/docs/Profile API/congratulations.md",
+  "sourceDirName": "Profile API",
+  "slug": "/Profile API/congratulations",
+  "permalink": "/documentation/docs/Profile API/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Profile API",
+    "permalink": "/documentation/docs/Profile API/create-profile-api"
+  },
+  "next": {
+    "title": "Lambda - Localization API",
+    "permalink": "/documentation/docs/category/lambda---localization-api"
+  }
+}

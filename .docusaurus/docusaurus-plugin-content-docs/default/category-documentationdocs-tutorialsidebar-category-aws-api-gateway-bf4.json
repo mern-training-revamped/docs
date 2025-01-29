@@ -1,0 +1,16 @@
+{
+  "title": "AWS API Gateway",
+  "description": "Create API Gateway",
+  "slug": "/category/aws-api-gateway",
+  "permalink": "/documentation/docs/category/aws-api-gateway",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/documentation/docs/Localization API/congratulations"
+    },
+    "next": {
+      "title": "Prerequisites",
+      "permalink": "/documentation/docs/AWS API Gateway/pre-requisites"
+    }
+  }
+}

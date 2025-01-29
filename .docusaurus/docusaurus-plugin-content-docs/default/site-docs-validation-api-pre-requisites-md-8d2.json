@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Validation API/pre-requisites",
+  "id": "Validation API/pre-requisites",
+  "title": "Prerequisites",
+  "description": "- Complete the Intro to lambda section",
+  "source": "@site/docs/Validation API/pre-requisites.md",
+  "sourceDirName": "Validation API",
+  "slug": "/Validation API/pre-requisites",
+  "permalink": "/documentation/docs/Validation API/pre-requisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lambda - Validation API",
+    "permalink": "/documentation/docs/category/lambda---validation-api"
+  },
+  "next": {
+    "title": "Create Validation API",
+    "permalink": "/documentation/docs/Validation API/create-validation-api"
+  }
+}

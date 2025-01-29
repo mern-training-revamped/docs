@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Profile API/create-profile-api",
+  "id": "Profile API/create-profile-api",
+  "title": "Create Profile API",
+  "description": "Access request params",
+  "source": "@site/docs/Profile API/create-profile-api.md",
+  "sourceDirName": "Profile API",
+  "slug": "/Profile API/create-profile-api",
+  "permalink": "/documentation/docs/Profile API/create-profile-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/documentation/docs/Profile API/pre-requisites"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/documentation/docs/Profile API/congratulations"
+  }
+}

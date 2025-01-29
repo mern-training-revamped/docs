@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Eligibility API/congratulations",
+  "id": "Eligibility API/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the following",
+  "source": "@site/docs/Eligibility API/congratulations.md",
+  "sourceDirName": "Eligibility API",
+  "slug": "/Eligibility API/congratulations",
+  "permalink": "/documentation/docs/Eligibility API/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Eligibility API",
+    "permalink": "/documentation/docs/Eligibility API/create-eligibility-api"
+  },
+  "next": {
+    "title": "Lambda - Validation API",
+    "permalink": "/documentation/docs/category/lambda---validation-api"
+  }
+}

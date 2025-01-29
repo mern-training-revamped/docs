@@ -1,0 +1,183 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/documentation/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/documentation/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "AWS API Gateway/congratulations",
+              "path": "/documentation/docs/AWS API Gateway/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AWS API Gateway/pre-requisites",
+              "path": "/documentation/docs/AWS API Gateway/pre-requisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AWS API Gateway/setup-api-gateway",
+              "path": "/documentation/docs/AWS API Gateway/setup-api-gateway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eligibility API/congratulations",
+              "path": "/documentation/docs/Eligibility API/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eligibility API/create-eligibility-api",
+              "path": "/documentation/docs/Eligibility API/create-eligibility-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eligibility API/pre-requisites",
+              "path": "/documentation/docs/Eligibility API/pre-requisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/documentation/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro to Lambdas/congratulations",
+              "path": "/documentation/docs/Intro to Lambdas/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro to Lambdas/create-a-lambda",
+              "path": "/documentation/docs/Intro to Lambdas/create-a-lambda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro to Lambdas/create-a-nodejs-project",
+              "path": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro to Lambdas/deploy-your-app",
+              "path": "/documentation/docs/Intro to Lambdas/deploy-your-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro to Lambdas/setup-environment",
+              "path": "/documentation/docs/Intro to Lambdas/setup-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro to Lambdas/setup-handler",
+              "path": "/documentation/docs/Intro to Lambdas/setup-handler",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Localization API/congratulations",
+              "path": "/documentation/docs/Localization API/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Localization API/create-localization-api",
+              "path": "/documentation/docs/Localization API/create-localization-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Localization API/pre-requisites",
+              "path": "/documentation/docs/Localization API/pre-requisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Profile API/congratulations",
+              "path": "/documentation/docs/Profile API/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Profile API/create-profile-api",
+              "path": "/documentation/docs/Profile API/create-profile-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Profile API/pre-requisites",
+              "path": "/documentation/docs/Profile API/pre-requisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "React UI/manage-docs-versions",
+              "path": "/documentation/docs/React UI/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "React UI/translate-your-site",
+              "path": "/documentation/docs/React UI/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validation API/congratulations",
+              "path": "/documentation/docs/Validation API/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validation API/create-validation-api",
+              "path": "/documentation/docs/Validation API/create-validation-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validation API/pre-requisites",
+              "path": "/documentation/docs/Validation API/pre-requisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lambda---getting-started",
+              "path": "/documentation/docs/category/lambda---getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lambda---eligibility-api",
+              "path": "/documentation/docs/category/lambda---eligibility-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lambda---validation-api",
+              "path": "/documentation/docs/category/lambda---validation-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lambda---profile-api",
+              "path": "/documentation/docs/category/lambda---profile-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lambda---localization-api",
+              "path": "/documentation/docs/category/lambda---localization-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/aws-api-gateway",
+              "path": "/documentation/docs/category/aws-api-gateway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/react-ui",
+              "path": "/documentation/docs/category/react-ui",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/documentation/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

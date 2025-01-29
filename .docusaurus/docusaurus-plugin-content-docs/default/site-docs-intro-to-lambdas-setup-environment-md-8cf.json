@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Intro to Lambdas/setup-environment",
+  "id": "Intro to Lambdas/setup-environment",
+  "title": "Setup Environment",
+  "description": "Create a file at the root of the project",
+  "source": "@site/docs/Intro to Lambdas/setup-environment.md",
+  "sourceDirName": "Intro to Lambdas",
+  "slug": "/Intro to Lambdas/setup-environment",
+  "permalink": "/documentation/docs/Intro to Lambdas/setup-environment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create NodeJs project",
+    "permalink": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project"
+  },
+  "next": {
+    "title": "Setup Handler",
+    "permalink": "/documentation/docs/Intro to Lambdas/setup-handler"
+  }
+}

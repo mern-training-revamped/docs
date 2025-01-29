@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Localization API/congratulations",
+  "id": "Localization API/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the following",
+  "source": "@site/docs/Localization API/congratulations.md",
+  "sourceDirName": "Localization API",
+  "slug": "/Localization API/congratulations",
+  "permalink": "/documentation/docs/Localization API/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Localization API",
+    "permalink": "/documentation/docs/Localization API/create-localization-api"
+  },
+  "next": {
+    "title": "AWS API Gateway",
+    "permalink": "/documentation/docs/category/aws-api-gateway"
+  }
+}

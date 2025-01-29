@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Eligibility API/pre-requisites",
+  "id": "Eligibility API/pre-requisites",
+  "title": "Prerequisites",
+  "description": "- Complete the Intro to lambda section",
+  "source": "@site/docs/Eligibility API/pre-requisites.md",
+  "sourceDirName": "Eligibility API",
+  "slug": "/Eligibility API/pre-requisites",
+  "permalink": "/documentation/docs/Eligibility API/pre-requisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lambda - Eligibility API",
+    "permalink": "/documentation/docs/category/lambda---eligibility-api"
+  },
+  "next": {
+    "title": "Create Eligibility API",
+    "permalink": "/documentation/docs/Eligibility API/create-eligibility-api"
+  }
+}

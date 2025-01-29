@@ -1,0 +1,26 @@
+{
+  "unversionedId": "AWS API Gateway/congratulations",
+  "id": "AWS API Gateway/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the following",
+  "source": "@site/docs/AWS API Gateway/congratulations.md",
+  "sourceDirName": "AWS API Gateway",
+  "slug": "/AWS API Gateway/congratulations",
+  "permalink": "/documentation/docs/AWS API Gateway/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Steps tp setup an API Gateway",
+    "permalink": "/documentation/docs/AWS API Gateway/setup-api-gateway"
+  },
+  "next": {
+    "title": "React UI",
+    "permalink": "/documentation/docs/category/react-ui"
+  }
+}

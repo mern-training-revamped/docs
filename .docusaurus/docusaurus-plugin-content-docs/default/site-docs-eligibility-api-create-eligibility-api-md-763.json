@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Eligibility API/create-eligibility-api",
+  "id": "Eligibility API/create-eligibility-api",
+  "title": "Create Eligibility API",
+  "description": "Access request params",
+  "source": "@site/docs/Eligibility API/create-eligibility-api.md",
+  "sourceDirName": "Eligibility API",
+  "slug": "/Eligibility API/create-eligibility-api",
+  "permalink": "/documentation/docs/Eligibility API/create-eligibility-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/documentation/docs/Eligibility API/pre-requisites"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/documentation/docs/Eligibility API/congratulations"
+  }
+}

@@ -1,0 +1,1205 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/documentation/docs",
+          "tagsPath": "/documentation/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\President\\Desktop\\mern\\1-16-2025\\prep\\documentation\\sidebars.js",
+          "contentPath": "C:\\Users\\President\\Desktop\\mern\\1-16-2025\\prep\\documentation\\docs",
+          "contentPathLocalized": "C:\\Users\\President\\Desktop\\mern\\1-16-2025\\prep\\documentation\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "AWS API Gateway/congratulations",
+              "id": "AWS API Gateway/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the following",
+              "source": "@site/docs/AWS API Gateway/congratulations.md",
+              "sourceDirName": "AWS API Gateway",
+              "slug": "/AWS API Gateway/congratulations",
+              "permalink": "/documentation/docs/AWS API Gateway/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Steps tp setup an API Gateway",
+                "permalink": "/documentation/docs/AWS API Gateway/setup-api-gateway"
+              },
+              "next": {
+                "title": "React UI",
+                "permalink": "/documentation/docs/category/react-ui"
+              }
+            },
+            {
+              "unversionedId": "AWS API Gateway/pre-requisites",
+              "id": "AWS API Gateway/pre-requisites",
+              "title": "Prerequisites",
+              "description": "- Have an AWS account setup",
+              "source": "@site/docs/AWS API Gateway/pre-requisites.md",
+              "sourceDirName": "AWS API Gateway",
+              "slug": "/AWS API Gateway/pre-requisites",
+              "permalink": "/documentation/docs/AWS API Gateway/pre-requisites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AWS API Gateway",
+                "permalink": "/documentation/docs/category/aws-api-gateway"
+              },
+              "next": {
+                "title": "Steps tp setup an API Gateway",
+                "permalink": "/documentation/docs/AWS API Gateway/setup-api-gateway"
+              }
+            },
+            {
+              "unversionedId": "AWS API Gateway/setup-api-gateway",
+              "id": "AWS API Gateway/setup-api-gateway",
+              "title": "Steps tp setup an API Gateway",
+              "description": "- Search for API Gateway in AWS Console",
+              "source": "@site/docs/AWS API Gateway/setup-api-gateway.md",
+              "sourceDirName": "AWS API Gateway",
+              "slug": "/AWS API Gateway/setup-api-gateway",
+              "permalink": "/documentation/docs/AWS API Gateway/setup-api-gateway",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/documentation/docs/AWS API Gateway/pre-requisites"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentation/docs/AWS API Gateway/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Eligibility API/congratulations",
+              "id": "Eligibility API/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the following",
+              "source": "@site/docs/Eligibility API/congratulations.md",
+              "sourceDirName": "Eligibility API",
+              "slug": "/Eligibility API/congratulations",
+              "permalink": "/documentation/docs/Eligibility API/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create Eligibility API",
+                "permalink": "/documentation/docs/Eligibility API/create-eligibility-api"
+              },
+              "next": {
+                "title": "Lambda - Validation API",
+                "permalink": "/documentation/docs/category/lambda---validation-api"
+              }
+            },
+            {
+              "unversionedId": "Eligibility API/create-eligibility-api",
+              "id": "Eligibility API/create-eligibility-api",
+              "title": "Create Eligibility API",
+              "description": "Access request params",
+              "source": "@site/docs/Eligibility API/create-eligibility-api.md",
+              "sourceDirName": "Eligibility API",
+              "slug": "/Eligibility API/create-eligibility-api",
+              "permalink": "/documentation/docs/Eligibility API/create-eligibility-api",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/documentation/docs/Eligibility API/pre-requisites"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentation/docs/Eligibility API/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Eligibility API/pre-requisites",
+              "id": "Eligibility API/pre-requisites",
+              "title": "Prerequisites",
+              "description": "- Complete the Intro to lambda section",
+              "source": "@site/docs/Eligibility API/pre-requisites.md",
+              "sourceDirName": "Eligibility API",
+              "slug": "/Eligibility API/pre-requisites",
+              "permalink": "/documentation/docs/Eligibility API/pre-requisites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lambda - Eligibility API",
+                "permalink": "/documentation/docs/category/lambda---eligibility-api"
+              },
+              "next": {
+                "title": "Create Eligibility API",
+                "permalink": "/documentation/docs/Eligibility API/create-eligibility-api"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Intro",
+              "description": "Getting Started",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/documentation/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Lambda - Getting Started",
+                "permalink": "/documentation/docs/category/lambda---getting-started"
+              }
+            },
+            {
+              "unversionedId": "Intro to Lambdas/congratulations",
+              "id": "Intro to Lambdas/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of lambda and made some progress in writing specific APIs.",
+              "source": "@site/docs/Intro to Lambdas/congratulations.md",
+              "sourceDirName": "Intro to Lambdas",
+              "slug": "/Intro to Lambdas/congratulations",
+              "permalink": "/documentation/docs/Intro to Lambdas/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your app locally",
+                "permalink": "/documentation/docs/Intro to Lambdas/deploy-your-app"
+              },
+              "next": {
+                "title": "Lambda - Eligibility API",
+                "permalink": "/documentation/docs/category/lambda---eligibility-api"
+              }
+            },
+            {
+              "unversionedId": "Intro to Lambdas/create-a-lambda",
+              "id": "Intro to Lambdas/create-a-lambda",
+              "title": "Setup a Lambda",
+              "description": "",
+              "source": "@site/docs/Intro to Lambdas/create-a-lambda.md",
+              "sourceDirName": "Intro to Lambdas",
+              "slug": "/Intro to Lambdas/create-a-lambda",
+              "permalink": "/documentation/docs/Intro to Lambdas/create-a-lambda",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lambda - Getting Started",
+                "permalink": "/documentation/docs/category/lambda---getting-started"
+              },
+              "next": {
+                "title": "Create NodeJs project",
+                "permalink": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project"
+              }
+            },
+            {
+              "unversionedId": "Intro to Lambdas/create-a-nodejs-project",
+              "id": "Intro to Lambdas/create-a-nodejs-project",
+              "title": "Create NodeJs project",
+              "description": "this command will create a file called package.json, Replace the contents of the file with following content",
+              "source": "@site/docs/Intro to Lambdas/create-a-nodejs-project.md",
+              "sourceDirName": "Intro to Lambdas",
+              "slug": "/Intro to Lambdas/create-a-nodejs-project",
+              "permalink": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setup a Lambda",
+                "permalink": "/documentation/docs/Intro to Lambdas/create-a-lambda"
+              },
+              "next": {
+                "title": "Setup Environment",
+                "permalink": "/documentation/docs/Intro to Lambdas/setup-environment"
+              }
+            },
+            {
+              "unversionedId": "Intro to Lambdas/deploy-your-app",
+              "id": "Intro to Lambdas/deploy-your-app",
+              "title": "Deploy your app locally",
+              "description": "Deploy your app",
+              "source": "@site/docs/Intro to Lambdas/deploy-your-app.md",
+              "sourceDirName": "Intro to Lambdas",
+              "slug": "/Intro to Lambdas/deploy-your-app",
+              "permalink": "/documentation/docs/Intro to Lambdas/deploy-your-app",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setup Handler",
+                "permalink": "/documentation/docs/Intro to Lambdas/setup-handler"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentation/docs/Intro to Lambdas/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Intro to Lambdas/setup-environment",
+              "id": "Intro to Lambdas/setup-environment",
+              "title": "Setup Environment",
+              "description": "Create a file at the root of the project",
+              "source": "@site/docs/Intro to Lambdas/setup-environment.md",
+              "sourceDirName": "Intro to Lambdas",
+              "slug": "/Intro to Lambdas/setup-environment",
+              "permalink": "/documentation/docs/Intro to Lambdas/setup-environment",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create NodeJs project",
+                "permalink": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project"
+              },
+              "next": {
+                "title": "Setup Handler",
+                "permalink": "/documentation/docs/Intro to Lambdas/setup-handler"
+              }
+            },
+            {
+              "unversionedId": "Intro to Lambdas/setup-handler",
+              "id": "Intro to Lambdas/setup-handler",
+              "title": "Setup Handler",
+              "description": "Write core logic of the lambda",
+              "source": "@site/docs/Intro to Lambdas/setup-handler.md",
+              "sourceDirName": "Intro to Lambdas",
+              "slug": "/Intro to Lambdas/setup-handler",
+              "permalink": "/documentation/docs/Intro to Lambdas/setup-handler",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setup Environment",
+                "permalink": "/documentation/docs/Intro to Lambdas/setup-environment"
+              },
+              "next": {
+                "title": "Deploy your app locally",
+                "permalink": "/documentation/docs/Intro to Lambdas/deploy-your-app"
+              }
+            },
+            {
+              "unversionedId": "Localization API/congratulations",
+              "id": "Localization API/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the following",
+              "source": "@site/docs/Localization API/congratulations.md",
+              "sourceDirName": "Localization API",
+              "slug": "/Localization API/congratulations",
+              "permalink": "/documentation/docs/Localization API/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create Localization API",
+                "permalink": "/documentation/docs/Localization API/create-localization-api"
+              },
+              "next": {
+                "title": "AWS API Gateway",
+                "permalink": "/documentation/docs/category/aws-api-gateway"
+              }
+            },
+            {
+              "unversionedId": "Localization API/create-localization-api",
+              "id": "Localization API/create-localization-api",
+              "title": "Create Localization API",
+              "description": "Add new environment variable for S3 bucket",
+              "source": "@site/docs/Localization API/create-localization-api.md",
+              "sourceDirName": "Localization API",
+              "slug": "/Localization API/create-localization-api",
+              "permalink": "/documentation/docs/Localization API/create-localization-api",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/documentation/docs/Localization API/pre-requisites"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentation/docs/Localization API/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Localization API/pre-requisites",
+              "id": "Localization API/pre-requisites",
+              "title": "Prerequisites",
+              "description": "- Complete the Intro to lambda section",
+              "source": "@site/docs/Localization API/pre-requisites.md",
+              "sourceDirName": "Localization API",
+              "slug": "/Localization API/pre-requisites",
+              "permalink": "/documentation/docs/Localization API/pre-requisites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lambda - Localization API",
+                "permalink": "/documentation/docs/category/lambda---localization-api"
+              },
+              "next": {
+                "title": "Create Localization API",
+                "permalink": "/documentation/docs/Localization API/create-localization-api"
+              }
+            },
+            {
+              "unversionedId": "Profile API/congratulations",
+              "id": "Profile API/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the following",
+              "source": "@site/docs/Profile API/congratulations.md",
+              "sourceDirName": "Profile API",
+              "slug": "/Profile API/congratulations",
+              "permalink": "/documentation/docs/Profile API/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create Profile API",
+                "permalink": "/documentation/docs/Profile API/create-profile-api"
+              },
+              "next": {
+                "title": "Lambda - Localization API",
+                "permalink": "/documentation/docs/category/lambda---localization-api"
+              }
+            },
+            {
+              "unversionedId": "Profile API/create-profile-api",
+              "id": "Profile API/create-profile-api",
+              "title": "Create Profile API",
+              "description": "Access request params",
+              "source": "@site/docs/Profile API/create-profile-api.md",
+              "sourceDirName": "Profile API",
+              "slug": "/Profile API/create-profile-api",
+              "permalink": "/documentation/docs/Profile API/create-profile-api",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/documentation/docs/Profile API/pre-requisites"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentation/docs/Profile API/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Profile API/pre-requisites",
+              "id": "Profile API/pre-requisites",
+              "title": "Prerequisites",
+              "description": "- Complete the Intro to lambda section",
+              "source": "@site/docs/Profile API/pre-requisites.md",
+              "sourceDirName": "Profile API",
+              "slug": "/Profile API/pre-requisites",
+              "permalink": "/documentation/docs/Profile API/pre-requisites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lambda - Profile API",
+                "permalink": "/documentation/docs/category/lambda---profile-api"
+              },
+              "next": {
+                "title": "Create Profile API",
+                "permalink": "/documentation/docs/Profile API/create-profile-api"
+              }
+            },
+            {
+              "unversionedId": "React UI/manage-docs-versions",
+              "id": "React UI/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/React UI/manage-docs-versions.md",
+              "sourceDirName": "React UI",
+              "slug": "/React UI/manage-docs-versions",
+              "permalink": "/documentation/docs/React UI/manage-docs-versions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "React UI",
+                "permalink": "/documentation/docs/category/react-ui"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/documentation/docs/React UI/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "React UI/translate-your-site",
+              "id": "React UI/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/React UI/translate-your-site.md",
+              "sourceDirName": "React UI",
+              "slug": "/React UI/translate-your-site",
+              "permalink": "/documentation/docs/React UI/translate-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/documentation/docs/React UI/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "Validation API/congratulations",
+              "id": "Validation API/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the following",
+              "source": "@site/docs/Validation API/congratulations.md",
+              "sourceDirName": "Validation API",
+              "slug": "/Validation API/congratulations",
+              "permalink": "/documentation/docs/Validation API/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create Validation API",
+                "permalink": "/documentation/docs/Validation API/create-validation-api"
+              },
+              "next": {
+                "title": "Lambda - Profile API",
+                "permalink": "/documentation/docs/category/lambda---profile-api"
+              }
+            },
+            {
+              "unversionedId": "Validation API/create-validation-api",
+              "id": "Validation API/create-validation-api",
+              "title": "Create Validation API",
+              "description": "Access request params",
+              "source": "@site/docs/Validation API/create-validation-api.md",
+              "sourceDirName": "Validation API",
+              "slug": "/Validation API/create-validation-api",
+              "permalink": "/documentation/docs/Validation API/create-validation-api",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/documentation/docs/Validation API/pre-requisites"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentation/docs/Validation API/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Validation API/pre-requisites",
+              "id": "Validation API/pre-requisites",
+              "title": "Prerequisites",
+              "description": "- Complete the Intro to lambda section",
+              "source": "@site/docs/Validation API/pre-requisites.md",
+              "sourceDirName": "Validation API",
+              "slug": "/Validation API/pre-requisites",
+              "permalink": "/documentation/docs/Validation API/pre-requisites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lambda - Validation API",
+                "permalink": "/documentation/docs/category/lambda---validation-api"
+              },
+              "next": {
+                "title": "Create Validation API",
+                "permalink": "/documentation/docs/Validation API/create-validation-api"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Lambda - Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Intro to Lambdas/create-a-lambda"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intro to Lambdas/create-a-nodejs-project"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intro to Lambdas/setup-environment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intro to Lambdas/setup-handler"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intro to Lambdas/deploy-your-app"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intro to Lambdas/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Learn to create lambdas",
+                  "slug": "/category/lambda---getting-started",
+                  "permalink": "/documentation/docs/category/lambda---getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lambda - Eligibility API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Eligibility API/pre-requisites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Eligibility API/create-eligibility-api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Eligibility API/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Create Eligibility API",
+                  "slug": "/category/lambda---eligibility-api",
+                  "permalink": "/documentation/docs/category/lambda---eligibility-api"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lambda - Validation API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Validation API/pre-requisites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Validation API/create-validation-api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Validation API/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Create Validation API",
+                  "slug": "/category/lambda---validation-api",
+                  "permalink": "/documentation/docs/category/lambda---validation-api"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lambda - Profile API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Profile API/pre-requisites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Profile API/create-profile-api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Profile API/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Create Profile API",
+                  "slug": "/category/lambda---profile-api",
+                  "permalink": "/documentation/docs/category/lambda---profile-api"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lambda - Localization API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Localization API/pre-requisites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Localization API/create-localization-api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Localization API/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Create Localization API",
+                  "slug": "/category/lambda---localization-api",
+                  "permalink": "/documentation/docs/category/lambda---localization-api"
+                }
+              },
+              {
+                "type": "category",
+                "label": "AWS API Gateway",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "AWS API Gateway/pre-requisites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "AWS API Gateway/setup-api-gateway"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "AWS API Gateway/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Create API Gateway",
+                  "slug": "/category/aws-api-gateway",
+                  "permalink": "/documentation/docs/category/aws-api-gateway"
+                }
+              },
+              {
+                "type": "category",
+                "label": "React UI",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "React UI/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "React UI/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/react-ui",
+                  "permalink": "/documentation/docs/category/react-ui"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/documentation/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/documentation/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/documentation/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/documentation/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/documentation/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\r\n\r\nSimply add Markdown files (or folders) to the `blog` directory.\r\n\r\nRegular blog authors can be added to `authors.yml`.\r\n\r\nThe blog post date can be extracted from filenames, such as:\r\n\r\n- `2019-05-30-welcome.md`\r\n- `2019-05-30-welcome/index.md`\r\n\r\nA blog post folder can be convenient to co-locate blog post images:\r\n\r\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\r\n\r\nThe blog supports tags as well!\r\n\r\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/documentation/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/documentation/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/documentation/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/documentation/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\r\n\r\n:::tip\r\n\r\nUse the power of React to create interactive blog posts.\r\n\r\n```js\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n```\r\n\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n\r\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/documentation/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/documentation/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/documentation/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/documentation/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/documentation/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\r\n\r\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\r\n\r\n<!--truncate-->\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/documentation/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/documentation/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/documentation/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/documentation/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/documentation/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/documentation/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/documentation/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/documentation/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/documentation/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/documentation/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentation/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/documentation/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/documentation/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentation/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/documentation/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/documentation/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentation/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/documentation/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/documentation/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/documentation/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

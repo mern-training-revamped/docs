@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Profile API/pre-requisites",
+  "id": "Profile API/pre-requisites",
+  "title": "Prerequisites",
+  "description": "- Complete the Intro to lambda section",
+  "source": "@site/docs/Profile API/pre-requisites.md",
+  "sourceDirName": "Profile API",
+  "slug": "/Profile API/pre-requisites",
+  "permalink": "/documentation/docs/Profile API/pre-requisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lambda - Profile API",
+    "permalink": "/documentation/docs/category/lambda---profile-api"
+  },
+  "next": {
+    "title": "Create Profile API",
+    "permalink": "/documentation/docs/Profile API/create-profile-api"
+  }
+}

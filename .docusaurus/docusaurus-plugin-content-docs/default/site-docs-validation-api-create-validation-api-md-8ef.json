@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Validation API/create-validation-api",
+  "id": "Validation API/create-validation-api",
+  "title": "Create Validation API",
+  "description": "Access request params",
+  "source": "@site/docs/Validation API/create-validation-api.md",
+  "sourceDirName": "Validation API",
+  "slug": "/Validation API/create-validation-api",
+  "permalink": "/documentation/docs/Validation API/create-validation-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/documentation/docs/Validation API/pre-requisites"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/documentation/docs/Validation API/congratulations"
+  }
+}

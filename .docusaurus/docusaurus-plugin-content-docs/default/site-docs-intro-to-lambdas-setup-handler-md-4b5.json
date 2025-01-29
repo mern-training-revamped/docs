@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Intro to Lambdas/setup-handler",
+  "id": "Intro to Lambdas/setup-handler",
+  "title": "Setup Handler",
+  "description": "Write core logic of the lambda",
+  "source": "@site/docs/Intro to Lambdas/setup-handler.md",
+  "sourceDirName": "Intro to Lambdas",
+  "slug": "/Intro to Lambdas/setup-handler",
+  "permalink": "/documentation/docs/Intro to Lambdas/setup-handler",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Environment",
+    "permalink": "/documentation/docs/Intro to Lambdas/setup-environment"
+  },
+  "next": {
+    "title": "Deploy your app locally",
+    "permalink": "/documentation/docs/Intro to Lambdas/deploy-your-app"
+  }
+}

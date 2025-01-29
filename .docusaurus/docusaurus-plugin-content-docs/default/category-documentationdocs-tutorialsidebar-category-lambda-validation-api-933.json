@@ -1,0 +1,16 @@
+{
+  "title": "Lambda - Validation API",
+  "description": "Create Validation API",
+  "slug": "/category/lambda---validation-api",
+  "permalink": "/documentation/docs/category/lambda---validation-api",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/documentation/docs/Eligibility API/congratulations"
+    },
+    "next": {
+      "title": "Prerequisites",
+      "permalink": "/documentation/docs/Validation API/pre-requisites"
+    }
+  }
+}

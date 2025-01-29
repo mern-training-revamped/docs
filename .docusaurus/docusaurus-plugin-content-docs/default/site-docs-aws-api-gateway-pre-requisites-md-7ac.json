@@ -1,0 +1,26 @@
+{
+  "unversionedId": "AWS API Gateway/pre-requisites",
+  "id": "AWS API Gateway/pre-requisites",
+  "title": "Prerequisites",
+  "description": "- Have an AWS account setup",
+  "source": "@site/docs/AWS API Gateway/pre-requisites.md",
+  "sourceDirName": "AWS API Gateway",
+  "slug": "/AWS API Gateway/pre-requisites",
+  "permalink": "/documentation/docs/AWS API Gateway/pre-requisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS API Gateway",
+    "permalink": "/documentation/docs/category/aws-api-gateway"
+  },
+  "next": {
+    "title": "Steps tp setup an API Gateway",
+    "permalink": "/documentation/docs/AWS API Gateway/setup-api-gateway"
+  }
+}

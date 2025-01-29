@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Intro to Lambdas/create-a-lambda",
+  "id": "Intro to Lambdas/create-a-lambda",
+  "title": "Setup a Lambda",
+  "description": "",
+  "source": "@site/docs/Intro to Lambdas/create-a-lambda.md",
+  "sourceDirName": "Intro to Lambdas",
+  "slug": "/Intro to Lambdas/create-a-lambda",
+  "permalink": "/documentation/docs/Intro to Lambdas/create-a-lambda",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lambda - Getting Started",
+    "permalink": "/documentation/docs/category/lambda---getting-started"
+  },
+  "next": {
+    "title": "Create NodeJs project",
+    "permalink": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project"
+  }
+}

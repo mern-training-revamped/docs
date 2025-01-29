@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Intro to Lambdas/create-a-nodejs-project",
+  "id": "Intro to Lambdas/create-a-nodejs-project",
+  "title": "Create NodeJs project",
+  "description": "this command will create a file called package.json, Replace the contents of the file with following content",
+  "source": "@site/docs/Intro to Lambdas/create-a-nodejs-project.md",
+  "sourceDirName": "Intro to Lambdas",
+  "slug": "/Intro to Lambdas/create-a-nodejs-project",
+  "permalink": "/documentation/docs/Intro to Lambdas/create-a-nodejs-project",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup a Lambda",
+    "permalink": "/documentation/docs/Intro to Lambdas/create-a-lambda"
+  },
+  "next": {
+    "title": "Setup Environment",
+    "permalink": "/documentation/docs/Intro to Lambdas/setup-environment"
+  }
+}

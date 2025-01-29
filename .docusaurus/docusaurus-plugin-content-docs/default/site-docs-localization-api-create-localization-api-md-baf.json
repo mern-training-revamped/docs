@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Localization API/create-localization-api",
+  "id": "Localization API/create-localization-api",
+  "title": "Create Localization API",
+  "description": "Add new environment variable for S3 bucket",
+  "source": "@site/docs/Localization API/create-localization-api.md",
+  "sourceDirName": "Localization API",
+  "slug": "/Localization API/create-localization-api",
+  "permalink": "/documentation/docs/Localization API/create-localization-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/documentation/docs/Localization API/pre-requisites"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/documentation/docs/Localization API/congratulations"
+  }
+}

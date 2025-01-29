@@ -1,0 +1,284 @@
+{
+  "/documentation/blog-afb": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "14e72bca"
+  },
+  "/documentation/blog/archive-807": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "archive": "eda3af29"
+  },
+  "/documentation/blog/first-blog-post-45e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/documentation/blog/long-blog-post-432": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/documentation/blog/mdx-blog-post-3a1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/documentation/blog/tags-a23": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "tags": "67391c37"
+  },
+  "/documentation/blog/tags/docusaurus-6ed": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "911fa9ef",
+    "listMetadata": "b5356db2"
+  },
+  "/documentation/blog/tags/facebook-620": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "de8ffbca",
+    "listMetadata": "84f8bf7c"
+  },
+  "/documentation/blog/tags/hello-7b1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "6a778ac4",
+    "listMetadata": "3c83d27c"
+  },
+  "/documentation/blog/tags/hola-a82": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "21a202db",
+    "listMetadata": "4b4744dc"
+  },
+  "/documentation/blog/welcome-8fe": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "10ae0fd8"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/documentation/markdown-page-afc": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "acc611fb"
+    },
+    "content": "393be207"
+  },
+  "/documentation/docs-eb2": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "098309b8"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/documentation/docs/AWS API Gateway/congratulations-b28": {
+    "__comp": "17896441",
+    "content": "557fd69b"
+  },
+  "/documentation/docs/AWS API Gateway/pre-requisites-cc6": {
+    "__comp": "17896441",
+    "content": "7ac5bf98"
+  },
+  "/documentation/docs/AWS API Gateway/setup-api-gateway-b14": {
+    "__comp": "17896441",
+    "content": "bd38c518"
+  },
+  "/documentation/docs/category/aws-api-gateway-9d8": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0bae9dc6"
+  },
+  "/documentation/docs/category/lambda---eligibility-api-438": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a37e9a63"
+  },
+  "/documentation/docs/category/lambda---getting-started-122": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e87e7325"
+  },
+  "/documentation/docs/category/lambda---localization-api-02f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "cea55833"
+  },
+  "/documentation/docs/category/lambda---profile-api-90a": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a9a3173d"
+  },
+  "/documentation/docs/category/lambda---validation-api-d3f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "debf0334"
+  },
+  "/documentation/docs/category/react-ui-aca": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a24e57ef"
+  },
+  "/documentation/docs/Eligibility API/congratulations-0e0": {
+    "__comp": "17896441",
+    "content": "6dae5491"
+  },
+  "/documentation/docs/Eligibility API/create-eligibility-api-171": {
+    "__comp": "17896441",
+    "content": "76391083"
+  },
+  "/documentation/docs/Eligibility API/pre-requisites-a25": {
+    "__comp": "17896441",
+    "content": "88e2ef9c"
+  },
+  "/documentation/docs/intro-9e8": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/documentation/docs/Intro to Lambdas/congratulations-820": {
+    "__comp": "17896441",
+    "content": "540240e1"
+  },
+  "/documentation/docs/Intro to Lambdas/create-a-lambda-6ea": {
+    "__comp": "17896441",
+    "content": "19e7feae"
+  },
+  "/documentation/docs/Intro to Lambdas/create-a-nodejs-project-6ad": {
+    "__comp": "17896441",
+    "content": "0f93f571"
+  },
+  "/documentation/docs/Intro to Lambdas/deploy-your-app-fb6": {
+    "__comp": "17896441",
+    "content": "03c5a170"
+  },
+  "/documentation/docs/Intro to Lambdas/setup-environment-463": {
+    "__comp": "17896441",
+    "content": "8cf00737"
+  },
+  "/documentation/docs/Intro to Lambdas/setup-handler-061": {
+    "__comp": "17896441",
+    "content": "4b5f62b6"
+  },
+  "/documentation/docs/Localization API/congratulations-6a0": {
+    "__comp": "17896441",
+    "content": "6d93933f"
+  },
+  "/documentation/docs/Localization API/create-localization-api-3d1": {
+    "__comp": "17896441",
+    "content": "baf15a51"
+  },
+  "/documentation/docs/Localization API/pre-requisites-1af": {
+    "__comp": "17896441",
+    "content": "5c7508b4"
+  },
+  "/documentation/docs/Profile API/congratulations-1c6": {
+    "__comp": "17896441",
+    "content": "0ed8475b"
+  },
+  "/documentation/docs/Profile API/create-profile-api-ddf": {
+    "__comp": "17896441",
+    "content": "24b494c5"
+  },
+  "/documentation/docs/Profile API/pre-requisites-868": {
+    "__comp": "17896441",
+    "content": "3211cb84"
+  },
+  "/documentation/docs/React UI/manage-docs-versions-746": {
+    "__comp": "17896441",
+    "content": "4892407d"
+  },
+  "/documentation/docs/React UI/translate-your-site-4ec": {
+    "__comp": "17896441",
+    "content": "89d43a01"
+  },
+  "/documentation/docs/Validation API/congratulations-a3f": {
+    "__comp": "17896441",
+    "content": "d0eac17b"
+  },
+  "/documentation/docs/Validation API/create-validation-api-601": {
+    "__comp": "17896441",
+    "content": "8ef7970c"
+  },
+  "/documentation/docs/Validation API/pre-requisites-a96": {
+    "__comp": "17896441",
+    "content": "8d29b401"
+  },
+  "/documentation/-135": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "acc611fb"
+    },
+    "config": "5e9f5e1a"
+  }
+}

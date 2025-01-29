@@ -1,0 +1,26 @@
+{
+  "unversionedId": "AWS API Gateway/setup-api-gateway",
+  "id": "AWS API Gateway/setup-api-gateway",
+  "title": "Steps tp setup an API Gateway",
+  "description": "- Search for API Gateway in AWS Console",
+  "source": "@site/docs/AWS API Gateway/setup-api-gateway.md",
+  "sourceDirName": "AWS API Gateway",
+  "slug": "/AWS API Gateway/setup-api-gateway",
+  "permalink": "/documentation/docs/AWS API Gateway/setup-api-gateway",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/documentation/docs/AWS API Gateway/pre-requisites"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/documentation/docs/AWS API Gateway/congratulations"
+  }
+}
