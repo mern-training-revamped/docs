@@ -18,6 +18,7 @@ this command will create a file called package.json, Replace the contents of the
   "main": "index.js",
   "scripts": {
     "start": "sls offline start",
+    "zip": "zip -r lambda.zip . \"*.zip\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,15 +32,15 @@ this command will create a file called package.json, Replace the contents of the
   },
   "homepage": "https://github.com/@@your-account@@/@@name of the api@@#readme",
   "devDependencies": {
-    "mern-common-layer": "^1.3.0",
-    "mern-database-layer": "^3.0.0",
-    "mern-logging-layer": "^3.1.0",
-    "serverless": "^3.22.0",
-    "serverless-offline": "^10.0.2"
+    "serverless": "^4.5.0",
+    "serverless-offline": "^14.4.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.1218.0",
-    "env-var": "^7.3.0"
+    "aws-sdk": "^2.1692.0",
+    "env-var": "^7.5.0",
+    "mern-common-layer": "^1.3.0",
+    "mern-database-layer": "^5.0.0",
+    "mern-logging-layer": "^7.0.0"
   }
 }
 ```
